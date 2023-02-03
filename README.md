@@ -12,3 +12,4 @@ https://zeroasic.atlassian.net/browse/PM-17
 
 5. Testing out connection with Jira in Peter walkthru (check if workingi)
 6. test for Andreas walkthrough
+6. Test with Steven
